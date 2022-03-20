@@ -1,0 +1,12 @@
+/home/kai/Sat/web3/nft-on-near/nft-tutorial/nft-contract/target/wasm32-unknown-unknown/release/deps/borsh-e2cbfb1aadddee61.rmeta: /home/kai/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.8.1/src/lib.rs /home/kai/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.8.1/src/de/mod.rs /home/kai/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.8.1/src/de/hint.rs /home/kai/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.8.1/src/schema.rs /home/kai/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.8.1/src/schema_helpers.rs /home/kai/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.8.1/src/ser/mod.rs
+
+/home/kai/Sat/web3/nft-on-near/nft-tutorial/nft-contract/target/wasm32-unknown-unknown/release/deps/libborsh-e2cbfb1aadddee61.rlib: /home/kai/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.8.1/src/lib.rs /home/kai/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.8.1/src/de/mod.rs /home/kai/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.8.1/src/de/hint.rs /home/kai/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.8.1/src/schema.rs /home/kai/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.8.1/src/schema_helpers.rs /home/kai/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.8.1/src/ser/mod.rs
+
+/home/kai/Sat/web3/nft-on-near/nft-tutorial/nft-contract/target/wasm32-unknown-unknown/release/deps/borsh-e2cbfb1aadddee61.d: /home/kai/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.8.1/src/lib.rs /home/kai/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.8.1/src/de/mod.rs /home/kai/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.8.1/src/de/hint.rs /home/kai/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.8.1/src/schema.rs /home/kai/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.8.1/src/schema_helpers.rs /home/kai/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.8.1/src/ser/mod.rs
+
+/home/kai/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.8.1/src/lib.rs:
+/home/kai/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.8.1/src/de/mod.rs:
+/home/kai/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.8.1/src/de/hint.rs:
+/home/kai/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.8.1/src/schema.rs:
+/home/kai/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.8.1/src/schema_helpers.rs:
+/home/kai/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.8.1/src/ser/mod.rs:
